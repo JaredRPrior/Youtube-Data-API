@@ -1,0 +1,30 @@
+"AIzaSyCCCQsP3NGY9rGvOBI5unIvEy4OsAC41tc",
+                      "AIzaSyCPqYMsq1HOeOSaLtBGejUh5-GzOKDV8lg",
+                      "AIzaSyCGEBtZPu5Bpfa-wJIMcE6QPnzIYiNwD5k",
+                      'AIzaSyB2VjIO1qBKtHIYfM1kLGK0X4huo5cPgJg',
+                      'AIzaSyDBAlVzk0Q_pqFqdxdosJ09AjS9RhN1o28',
+                      'AIzaSyAQBq0X5Q3JCwwAlqx7hP24x0tS6NYpZpE',
+                      'AIzaSyAQBq0X5Q3JCwwAlqx7hP24x0tS6NYpZpE',
+                      'AIzaSyDbQTp-qKJP55kAAEgXP2vD80uHK4fVG-s',
+                      'AIzaSyBmFEUq7B52ei7WYnlRbY2biTcNkEEIwsM'
+                      
+                     """
+api_revolving_door = ["AIzaSyCCCQsP3NGY9rGvOBI5unIvEy4OsAC41tc",
+                      "AIzaSyCPqYMsq1HOeOSaLtBGejUh5-GzOKDV8lg",
+                      "AIzaSyCGEBtZPu5Bpfa-wJIMcE6QPnzIYiNwD5k",
+                      'AIzaSyB2VjIO1qBKtHIYfM1kLGK0X4huo5cPgJg',
+                      'AIzaSyDBAlVzk0Q_pqFqdxdosJ09AjS9RhN1o28',
+                      'AIzaSyAQBq0X5Q3JCwwAlqx7hP24x0tS6NYpZpE',
+                      'AIzaSyAQBq0X5Q3JCwwAlqx7hP24x0tS6NYpZpE',
+                      'AIzaSyDbQTp-qKJP55kAAEgXP2vD80uHK4fVG-s',
+                      'AIzaSyBmFEUq7B52ei7WYnlRbY2biTcNkEEIwsM',
+                      "AIzaSyDbvMLfe7FPhCCycAcKQxWB2urU3SOD0qM", 
+                      "AIzaSyBMlUoxwkfP2PIjIgDRCe7ladBN6efLgzw", 
+                      'AIzaSyA1Y_LCB5KCU6kZBJVZlHXSvmbNjGiitfY',
+                      'AIzaSyBlqtXeEgvyJGaw5h0SRxWO_ibw_JWX42s',
+                      "AIzaSyCmXJ4LrPH9IPyw_CyPbmZF2947j6rBcIY",
+                      "AIzaSyBU3Hg6Ph7a-z-Dgh1eJ9tHjgDfAonxlyw",
+                      "AIzaSyDmKGvWEZzfJKo9QS0CAovzYCLZE3MpF7w",
+                      "AIzaSyAKbiwdli7mrYm-5Hcnl356PB8rGam8fB0", 
+                      "AIzaSyCfm7NmDGTRfuxMK6hMABJYoKdTRGZh-Jk"]
+"""
